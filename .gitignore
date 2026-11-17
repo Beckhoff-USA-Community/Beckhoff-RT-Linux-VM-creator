@@ -1,0 +1,6 @@
+# Beckhoff RT Linux images and VirtualBox disks are large; never commit them
+*.img
+*.iso
+*.vdi
+*.vhd
+*.vmdk
